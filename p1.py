@@ -8,19 +8,6 @@ def mul(a,b):
     return a*b
 def div(a,b):
     return a/b
-def even(a,b):
-    if a%2==0:
-        print("First number is even number")
-    elif b%2==0:
-        print("Second number is a even number")
-    elif a%2!=0:
-        print("First number is odd number")
-    elif b%2!=0:
-        print("Second number is odd number")
-    elif a%2==0 and b%2==0:
-        print("Both are even number")
-    else:
-        print("Both are odd number")
 def end():
     print(responses[2])
     print(responses[3])
