@@ -23,5 +23,5 @@ def subhash():
     print("Subhash is a student of SGVU")
     print("He is from bihar")
 
-operations={"ADDITION":add,"SUM":add,"PLUS":add,"ADD":add,"SUB":sub,"SUBTRACT":sub,"MINUS":sub,"MULTIPLY":mul,"DIVISION":div,"EVEN":even,"ODD":even}
+operations={"ADDITION":add,"SUM":add,"PLUS":add,"ADD":add,"SUB":sub,"SUBTRACT":sub,"MINUS":sub,"MULTIPLY":mul,"DIVISION":div}
 commands={"SUBHASH":subhash,"BYE":end}
